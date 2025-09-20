@@ -55,7 +55,7 @@ git clone https://github.com/your-username/Unity-TicTacToe.git
 
 ---
 
-## 📦 Build & Release
+## Build & Release
 
 - Builds are available in the [Releases](https://github.com/jrdevadattan/TicTacToe/releases) section.  
 - Windows build includes `.exe` + `_Data` folder in a zip.  
