@@ -1,3 +1,4 @@
+# ========== Unity Generated Folders ==========
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
@@ -5,8 +6,10 @@
 [Bb]uilds/
 [Ll]ogs/
 [Mm]emoryCaptures/
+
+# ========== Visual Studio / VSCode ==========
+.vscode/
 *.csproj
-*.unityproj
 *.sln
 *.user
 *.userprefs
@@ -17,4 +20,19 @@
 *.mdb
 *.opendb
 *.VC.db
-.vscode
+
+# ========== Unity Cache ==========
+*.asmdef
+*.unitypackage
+*.apk
+*.aab
+
+# ========== OS Generated ==========
+.DS_Store
+Thumbs.db
+
+# Ignore local user settings
+/UserSettings/
+
+# Ignore VSCode settings
+.vscode/
